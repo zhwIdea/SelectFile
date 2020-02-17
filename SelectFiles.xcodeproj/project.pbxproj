@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6E2C6E8323FA6BD5001D68F9 /* 预览图.gif in Resources */ = {isa = PBXBuildFile; fileRef = 6E2C6E8223FA6BD5001D68F9 /* 预览图.gif */; };
 		6EC685D023CEE5E700846595 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 6EC685CF23CEE5E700846595 /* AppDelegate.m */; };
 		6EC685D323CEE5E700846595 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6EC685D223CEE5E700846595 /* ViewController.m */; };
 		6EC685D623CEE5E700846595 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6EC685D423CEE5E700846595 /* Main.storyboard */; };
@@ -43,6 +44,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		6E2C6E8223FA6BD5001D68F9 /* 预览图.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "预览图.gif"; sourceTree = "<group>"; };
 		6EC685CB23CEE5E700846595 /* SelectFiles.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SelectFiles.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6EC685CE23CEE5E700846595 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		6EC685CF23CEE5E700846595 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -119,6 +121,7 @@
 			isa = PBXGroup;
 			children = (
 				6EC6860F23CEEDC200846595 /* Image */,
+				6E2C6E8223FA6BD5001D68F9 /* 预览图.gif */,
 				6EC685CE23CEE5E700846595 /* AppDelegate.h */,
 				6EC685CF23CEE5E700846595 /* AppDelegate.m */,
 				6EC685D123CEE5E700846595 /* ViewController.h */,
@@ -274,6 +277,7 @@
 				6EC6860A23CEEDBD00846595 /* FJpptx@2x.png in Resources */,
 				6EC6860923CEEDBD00846595 /* FJxlsx@2x.png in Resources */,
 				6EC6861123CEEDF700846595 /* addImage@3x.png in Resources */,
+				6E2C6E8323FA6BD5001D68F9 /* 预览图.gif in Resources */,
 				6EC6861323CEF00600846595 /* deleteImage_Suggest@3x.png in Resources */,
 				6EC685D823CEE5E900846595 /* Assets.xcassets in Resources */,
 				6EC6860B23CEEDBD00846595 /* FJword@2x.png in Resources */,
